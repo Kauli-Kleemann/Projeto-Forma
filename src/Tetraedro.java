@@ -1,6 +1,6 @@
 public class Tetraedro extends FormaTridimensional {
 
-    double aresta;
+    private double aresta;
 
     public Tetraedro(double aresta) {
         this.aresta = aresta;

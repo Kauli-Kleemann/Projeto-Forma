@@ -1,6 +1,6 @@
 public class Cubo extends FormaTridimensional {
 
-    double aresta;
+    private double aresta;
 
     public Cubo(double aresta) {
         this.aresta = aresta;

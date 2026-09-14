@@ -1,6 +1,6 @@
 public class Esfera extends FormaTridimensional {
 
-    double raio;
+    private double raio;
 
     public Esfera(double raio) {
         this.raio = raio;

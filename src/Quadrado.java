@@ -1,6 +1,6 @@
 public class Quadrado extends FormaBidimensional {
 
-    double lado;
+    private double lado;
 
     public Quadrado(double lado) {
         this.lado = lado;

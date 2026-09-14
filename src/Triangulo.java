@@ -1,6 +1,6 @@
 public class Triangulo extends FormaBidimensional {
 
-    double base, altura;
+    private double base, altura;
 
     public Triangulo(double base, double altura) {
         this.base = base;
